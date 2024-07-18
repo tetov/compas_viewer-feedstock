@@ -3,7 +3,7 @@ About compas_viewer-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/compas_viewer-feedstock/blob/main/LICENSE.txt)
 
-Home: http://github.com/simplejson/simplejson
+Home: https://github.com/compas-dev/compas_viewer/
 
 Package license: MIT
 
