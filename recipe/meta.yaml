@@ -11,7 +11,7 @@ source:
 
 build:
   noarch: python
-  number: 0
+  number: 1
   script: "{{ PYTHON }} -m pip install . --no-deps --ignore-installed --no-cache-dir -vvv"
 
 requirements:
@@ -30,12 +30,12 @@ test:
     - compas_viewer
 
 about:
-  home: http://github.com/simplejson/simplejson
+  home: https://compas.dev/compas_viewer/
   license: MIT
   license_family: MIT
   license_file: LICENSE
   summary: 'Viewer for COMPAS 2 based on PyOpenGL and PyQt6.'
-  doc_url: http://compas.dev/compas_viewer/
+  doc_url: https://compas.dev/compas_viewer/
   dev_url: https://github.com/compas-dev/compas_viewer
 
 extra:
