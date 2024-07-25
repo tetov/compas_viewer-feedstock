@@ -30,7 +30,7 @@ test:
     - compas_viewer
 
 about:
-  home: http://github.com/simplejson/simplejson
+  home: https://compas.dev/compas_viewer/
   license: MIT
   license_family: MIT
   license_file: LICENSE
